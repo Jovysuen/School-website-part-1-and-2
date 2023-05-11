@@ -1,0 +1,16 @@
+#site{
+    width: 100%;
+    height: 500px;
+    border:none;
+}
+.list{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+#app{
+    background-color: aqua;
+}
+#life{
+background-color: aqua;
+}
